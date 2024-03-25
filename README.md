@@ -29,7 +29,7 @@ FastAPI та використовує SQLAlchemy для взаємодії з б
 
 2. Встановіть необхідні залежності:
 
-    pip install fastapi uvicorn sqlalchemy python-dotenv
+    pip install fastapi uvicorn sqlalchemy 
 
 3. Запустіть сервер:
 
